@@ -1,4 +1,4 @@
-# MiniBlog React App
+# MiniBlog
 
 [![React](https://img.shields.io/badge/React-18+-blue.svg)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
